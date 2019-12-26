@@ -1,0 +1,3 @@
+LIBRARY "md5"
+EXPORTS
+    outMD5 @1
